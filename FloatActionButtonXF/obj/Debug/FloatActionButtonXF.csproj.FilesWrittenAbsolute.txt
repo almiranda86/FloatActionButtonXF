@@ -1,0 +1,12 @@
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/FloatActionButtonXF.App.xaml
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/FloatActionButtonXF.FloatActionButtonXFPage.xaml
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/FloatActionButtonXF.App.xaml.g.cs
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/FloatActionButtonXF.FloatActionButtonXFPage.xaml.g.cs
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/bin/Debug/FloatActionButtonXF.dll.mdb
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/bin/Debug/FloatActionButtonXF.dll
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/FloatActionButtonXF.dll
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/obj/Debug/FloatActionButtonXF.dll.mdb
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/bin/Debug/Xamarin.Forms.Core.dll
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/almiranda86/Projects/FloatActionButtonXF/FloatActionButtonXF/bin/Debug/Xamarin.Forms.Xaml.dll

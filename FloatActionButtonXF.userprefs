@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5987DBE8-17FC-4CBA-B35F-89B62249F906}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FloatActionButtonXF/FloatActionButtonXFPage.xaml.cs">
+    <Files>
+      <File FileName="FloatActionButtonXF/FloatActionButtonXFPage.xaml" Line="9" Column="3" />
+      <File FileName="FloatActionButtonXF/FloatActionButtonXFPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FloatActionButtonXF.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.211BD818-8538-4D32-A219-B7AED4F3F74F" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FloatActionButtonXF.Droid PreferredExecutionTarget="Android.192.168.63.101:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

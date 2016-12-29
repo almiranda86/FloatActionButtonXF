@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:FloatActionButtonXF" x:Class="FloatActionButtonXF.FloatActionButtonXFPage">
+
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness"
+                iOS="0, 20, 0, 0" />
+  </ContentPage.Padding>
+
+	<ContentPage.Content>
+
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+      <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" x:Name="scrollView" >
+
+        <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand" >
+          <StackLayout x:Name="cardListContainer">
+
+          </StackLayout>
+        </ScrollView>
+        <StackLayout Orientation="Horizontal" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+          <!--<Button  Text="Login" />
+          <Button  Text="Login" />-->
+        </StackLayout>
+      </StackLayout>
+
+      <Image Source="ic_delete_black_48dp.png"
+        VerticalOptions="FillAndExpand"
+        HorizontalOptions="FillAndExpand"
+        AbsoluteLayout.LayoutBounds=".01,.98, 45, 45"
+        AbsoluteLayout.LayoutFlags="PositionProportional"
+        x:Name="deleteCard">
+        <Image.GestureRecognizers>
+          <TapGestureRecognizer
+              Command="{Binding clickDeleteCard}"
+              CommandParameter="3" />
+        </Image.GestureRecognizers>
+      </Image>
+
+      <Image Source="ic_add_circle_black_48dp.png"
+              VerticalOptions="FillAndExpand"
+              HorizontalOptions="FillAndExpand"
+              AbsoluteLayout.LayoutBounds="1,.99, 65, 65"
+              AbsoluteLayout.LayoutFlags="PositionProportional" >
+        <Image.GestureRecognizers>
+          <TapGestureRecognizer
+              Command="{Binding clickNewCard}"
+              CommandParameter="3" />
+        </Image.GestureRecognizers>
+      </Image>
+
+
+
+    </AbsoluteLayout>
+  </ContentPage.Content>
+
+</ContentPage>
